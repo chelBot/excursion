@@ -1,0 +1,13 @@
+html, body{
+  background-color: black;
+  color: white;
+  text-align: center;
+
+}
+img, a{
+  /*display: block;
+  margin: 0 auto;*/
+}
+#copy{
+  text-align: right;
+}
