@@ -2,12 +2,28 @@ html, body{
   background-color: black;
   color: white;
   text-align: center;
+  font-family: Verdana, sans-serif;
 
 }
-img, a{
-  /*display: block;
-  margin: 0 auto;*/
+h1{
+  font-size: 50px;
+  font-weight: normal;
+
+}
+h2{
+  font-size: 42px;
+  font-weight: 200px;
+}
+a{
+  color: Aquamarine;
+  font-size: 16px;
+}
+p{
+  font-size: 21px;
+  color: Gray;
+
 }
 #copy{
   text-align: right;
+  color: gray;
 }
